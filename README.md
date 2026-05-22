@@ -11,7 +11,7 @@ To run the pipelines, you need to provide your reference sequences and domains (
   1) blastbyid.sh
   2) featurescanning.sh
   3) structure_cluster.sh
-  4) align_pathway.sh
+  4) align_pathway.sh (optional, need to provide sequences of proteins involved in the pathway)
 
 The graph below shows how the workflow works in our luciferase mining project.
 ![Luciferase mining workflow](https://github.com/lynceuslq/prot_struct_clustering/blob/main/prot_mining_gpt.png)
